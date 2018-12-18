@@ -1,1 +1,2 @@
+a bug fix
 a new text file - second version
