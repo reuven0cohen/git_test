@@ -1,2 +1,4 @@
  - second vrsion - a new text file
 a bug fix
+a new bug fix
+another fix
