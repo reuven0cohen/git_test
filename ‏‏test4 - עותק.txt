@@ -1,4 +1,4 @@
 a bug fix
 a new text file - second version
 a new change
-a new line
+a new change
